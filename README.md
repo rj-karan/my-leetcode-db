@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rj-karan/my-leetcode-db/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rj-karan/my-leetcode-db/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/rj-karan/my-leetcode-db/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -79,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/rj-karan/my-leetcode-db/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rj-karan/my-leetcode-db/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/rj-karan/my-leetcode-db/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rj-karan/my-leetcode-db/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/rj-karan/my-leetcode-db/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rj-karan/my-leetcode-db/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rj-karan/my-leetcode-db/tree/master/0011-container-with-most-water) |
 | [0287-find-the-duplicate-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0287-find-the-duplicate-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rj-karan/my-leetcode-db/tree/master/0011-container-with-most-water) |
 | [0287-find-the-duplicate-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rj-karan/my-leetcode-db/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |

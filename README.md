@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/rj-karan/my-leetcode-db/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rj-karan/my-leetcode-db/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rj-karan/my-leetcode-db/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rj-karan/my-leetcode-db/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rj-karan/my-leetcode-db/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rj-karan/my-leetcode-db/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rj-karan/my-leetcode-db/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rj-karan/my-leetcode-db/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rj-karan/my-leetcode-db/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/rj-karan/my-leetcode-db/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0977-squares-of-a-sorted-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0125-valid-palindrome](https://github.com/rj-karan/my-leetcode-db/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rj-karan/my-leetcode-db/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/rj-karan/my-leetcode-db/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rj-karan/my-leetcode-db/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rj-karan/my-leetcode-db/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/rj-karan/my-leetcode-db/tree/master/0392-is-subsequence) |

@@ -1,5 +1,5 @@
 <h2><a href="https://leetcode.com/problems/3sum">15. 3Sum</a></h2><h3>Medium</h3><hr><p>Given an integer array nums, return all the triplets <code>[nums[i], nums[j], nums[k]]</code> such that <code>i != j</code>, <code>i != k</code>, and <code>j != k</code>, and <code>nums[i] + nums[j] + nums[k] == 0</code>.</p>
-
+<p>i and i-1 not should not be equal and j and j-1 should not be equal </p>
 <p>Notice that the solution set must not contain duplicate triplets.</p>
 
 <p>&nbsp;</p>

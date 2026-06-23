@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/rj-karan/my-leetcode-db/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rj-karan/my-leetcode-db/tree/master/0349-intersection-of-two-arrays) |
+| [0821-shortest-distance-to-a-character](https://github.com/rj-karan/my-leetcode-db/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/rj-karan/my-leetcode-db/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rj-karan/my-leetcode-db/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/rj-karan/my-leetcode-db/tree/master/0392-is-subsequence) |
+| [0821-shortest-distance-to-a-character](https://github.com/rj-karan/my-leetcode-db/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/rj-karan/my-leetcode-db/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/rj-karan/my-leetcode-db/tree/master/1768-merge-strings-alternately) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/rj-karan/my-leetcode-db/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rj-karan/my-leetcode-db/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/rj-karan/my-leetcode-db/tree/master/0392-is-subsequence) |
+| [0821-shortest-distance-to-a-character](https://github.com/rj-karan/my-leetcode-db/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/rj-karan/my-leetcode-db/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/rj-karan/my-leetcode-db/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rj-karan/my-leetcode-db/tree/master/2108-find-first-palindromic-string-in-the-array) |

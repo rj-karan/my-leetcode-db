@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/rj-karan/my-leetcode-db/tree/master/0001-two-sum) |
 | [0287-find-the-duplicate-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0287-find-the-duplicate-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->

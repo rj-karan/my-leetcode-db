@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/rj-karan/my-leetcode-db/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rj-karan/my-leetcode-db/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/rj-karan/my-leetcode-db/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rj-karan/my-leetcode-db/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rj-karan/my-leetcode-db/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/rj-karan/my-leetcode-db/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rj-karan/my-leetcode-db/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rj-karan/my-leetcode-db/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rj-karan/my-leetcode-db/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rj-karan/my-leetcode-db/tree/master/0283-move-zeroes) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rj-karan/my-leetcode-db/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rj-karan/my-leetcode-db/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rj-karan/my-leetcode-db/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0977-squares-of-a-sorted-array) |

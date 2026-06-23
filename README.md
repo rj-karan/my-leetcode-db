@@ -82,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

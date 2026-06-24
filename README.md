@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/rj-karan/my-leetcode-db/tree/master/1672-richest-customer-wealth) |
 | [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rj-karan/my-leetcode-db/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rj-karan/my-leetcode-db/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rj-karan/my-leetcode-db/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rj-karan/my-leetcode-db/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/rj-karan/my-leetcode-db/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rj-karan/my-leetcode-db/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rj-karan/my-leetcode-db/tree/master/0567-permutation-in-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rj-karan/my-leetcode-db/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/rj-karan/my-leetcode-db/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rj-karan/my-leetcode-db/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1004-max-consecutive-ones-iii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rj-karan/my-leetcode-db/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |

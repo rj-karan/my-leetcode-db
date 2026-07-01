@@ -201,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rj-karan/my-leetcode-db/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/rj-karan/my-leetcode-db/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->

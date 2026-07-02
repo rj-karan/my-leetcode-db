@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rj-karan/my-leetcode-db/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/rj-karan/my-leetcode-db/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/rj-karan/my-leetcode-db/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/rj-karan/my-leetcode-db/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rj-karan/my-leetcode-db/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rj-karan/my-leetcode-db/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/rj-karan/my-leetcode-db/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Segment Tree
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/rj-karan/my-leetcode-db/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rj-karan/my-leetcode-db/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rj-karan/my-leetcode-db/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/rj-karan/my-leetcode-db/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/rj-karan/my-leetcode-db/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rj-karan/my-leetcode-db/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0287-find-the-duplicate-number) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rj-karan/my-leetcode-db/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/rj-karan/my-leetcode-db/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/rj-karan/my-leetcode-db/tree/master/0733-flood-fill) |
 | [1672-richest-customer-wealth](https://github.com/rj-karan/my-leetcode-db/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -215,11 +217,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rj-karan/my-leetcode-db/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/rj-karan/my-leetcode-db/tree/master/0733-flood-fill) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rj-karan/my-leetcode-db/tree/master/0200-number-of-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -232,5 +236,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rj-karan/my-leetcode-db/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/rj-karan/my-leetcode-db/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->

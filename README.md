@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rj-karan/my-leetcode-db/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rj-karan/my-leetcode-db/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rj-karan/my-leetcode-db/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/rj-karan/my-leetcode-db/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1004-max-consecutive-ones-iii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rj-karan/my-leetcode-db/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/rj-karan/my-leetcode-db/tree/master/1672-richest-customer-wealth) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Segment Tree
 |  |
 | ------- |
@@ -205,4 +208,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0077-combinations](https://github.com/rj-karan/my-leetcode-db/tree/master/0077-combinations) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/rj-karan/my-leetcode-db/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rj-karan/my-leetcode-db/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/rj-karan/my-leetcode-db/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/rj-karan/my-leetcode-db/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rj-karan/my-leetcode-db/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rj-karan/my-leetcode-db/tree/master/0073-set-matrix-zeroes) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/rj-karan/my-leetcode-db/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/rj-karan/my-leetcode-db/tree/master/0077-combinations) |
 ## Breadth-First Search
 |  |

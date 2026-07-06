@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/rj-karan/my-leetcode-db/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1004-max-consecutive-ones-iii) |
+| [1288-remove-covered-intervals](https://github.com/rj-karan/my-leetcode-db/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/rj-karan/my-leetcode-db/tree/master/1301-number-of-paths-with-max-score) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rj-karan/my-leetcode-db/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/rj-karan/my-leetcode-db/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/rj-karan/my-leetcode-db/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/rj-karan/my-leetcode-db/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |

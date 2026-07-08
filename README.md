@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rj-karan/my-leetcode-db/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rj-karan/my-leetcode-db/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rj-karan/my-leetcode-db/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/rj-karan/my-leetcode-db/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
 | ------- |

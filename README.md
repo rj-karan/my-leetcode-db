@@ -282,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/rj-karan/my-leetcode-db/tree/master/2073-time-needed-to-buy-tickets) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->

@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rj-karan/my-leetcode-db/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/rj-karan/my-leetcode-db/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/rj-karan/my-leetcode-db/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/rj-karan/my-leetcode-db/tree/master/1301-number-of-paths-with-max-score) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## String
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/rj-karan/my-leetcode-db/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0202-happy-number) |
+| [1025-divisor-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -292,4 +294,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1212-sequential-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

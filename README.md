@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/rj-karan/my-leetcode-db/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/rj-karan/my-leetcode-db/tree/master/0389-find-the-difference) |
 | [0980-unique-paths-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/0980-unique-paths-iii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/rj-karan/my-leetcode-db/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rj-karan/my-leetcode-db/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/rj-karan/my-leetcode-db/tree/master/0191-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |

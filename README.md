@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/rj-karan/my-leetcode-db/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/rj-karan/my-leetcode-db/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/rj-karan/my-leetcode-db/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/rj-karan/my-leetcode-db/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/rj-karan/my-leetcode-db/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/rj-karan/my-leetcode-db/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0977-squares-of-a-sorted-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/rj-karan/my-leetcode-db/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rj-karan/my-leetcode-db/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/rj-karan/my-leetcode-db/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/rj-karan/my-leetcode-db/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/rj-karan/my-leetcode-db/tree/master/1301-number-of-paths-with-max-score) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## String

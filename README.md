@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2798-number-of-employees-who-met-the-target](https://github.com/rj-karan/my-leetcode-db/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rj-karan/my-leetcode-db/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/rj-karan/my-leetcode-db/tree/master/0389-find-the-difference) |
 | [0980-unique-paths-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/0980-unique-paths-iii) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rj-karan/my-leetcode-db/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Greedy
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0202-happy-number) |
 | [1025-divisor-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rj-karan/my-leetcode-db/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |

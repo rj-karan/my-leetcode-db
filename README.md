@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/rj-karan/my-leetcode-db/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
+| [3859-maximum-product-of-two-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/3859-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3859-maximum-product-of-two-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/3859-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |

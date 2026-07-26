@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rj-karan/my-leetcode-db/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/rj-karan/my-leetcode-db/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rj-karan/my-leetcode-db/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rj-karan/my-leetcode-db/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/rj-karan/my-leetcode-db/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/rj-karan/my-leetcode-db/tree/master/0746-min-cost-climbing-stairs) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/rj-karan/my-leetcode-db/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/rj-karan/my-leetcode-db/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/rj-karan/my-leetcode-db/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rj-karan/my-leetcode-db/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/rj-karan/my-leetcode-db/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/rj-karan/my-leetcode-db/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rj-karan/my-leetcode-db/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3513-number-of-unique-xor-triplets-i) |

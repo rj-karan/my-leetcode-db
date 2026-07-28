@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/rj-karan/my-leetcode-db/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rj-karan/my-leetcode-db/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/3859-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rj-karan/my-leetcode-db/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rj-karan/my-leetcode-db/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |

@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/rj-karan/my-leetcode-db/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/rj-karan/my-leetcode-db/tree/master/0733-flood-fill) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/rj-karan/my-leetcode-db/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0200-number-of-islands](https://github.com/rj-karan/my-leetcode-db/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/rj-karan/my-leetcode-db/tree/master/0733-flood-fill) |
+| [3310-remove-methods-from-project](https://github.com/rj-karan/my-leetcode-db/tree/master/3310-remove-methods-from-project) |
 ## Combinatorics
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/rj-karan/my-leetcode-db/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Queue
 |  |

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1004-max-consecutive-ones-iii) |
+| [1089-duplicate-zeros](https://github.com/rj-karan/my-leetcode-db/tree/master/1089-duplicate-zeros) |
 | [1288-remove-covered-intervals](https://github.com/rj-karan/my-leetcode-db/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/rj-karan/my-leetcode-db/tree/master/1301-number-of-paths-with-max-score) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0821-shortest-distance-to-a-character](https://github.com/rj-karan/my-leetcode-db/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/rj-karan/my-leetcode-db/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/rj-karan/my-leetcode-db/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/rj-karan/my-leetcode-db/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rj-karan/my-leetcode-db/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search

@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1522-stone-game-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1522-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rj-karan/my-leetcode-db/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1212-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Brainteaser
 |  |

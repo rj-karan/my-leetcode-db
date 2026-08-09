@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0980-unique-paths-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/rj-karan/my-leetcode-db/tree/master/1089-duplicate-zeros) |
+| [1140-stone-game-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/rj-karan/my-leetcode-db/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/rj-karan/my-leetcode-db/tree/master/1301-number-of-paths-with-max-score) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/rj-karan/my-leetcode-db/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/rj-karan/my-leetcode-db/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/rj-karan/my-leetcode-db/tree/master/1301-number-of-paths-with-max-score) |
 | [1522-stone-game-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1522-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rj-karan/my-leetcode-db/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/rj-karan/my-leetcode-db/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rj-karan/my-leetcode-db/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1522-stone-game-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1522-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/1140-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1522-stone-game-iii) |
 ## Number Theory
 |  |
@@ -357,9 +362,11 @@ A collection of LeetCode questions to ace the coding interview!
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/1140-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1522-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/1140-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->

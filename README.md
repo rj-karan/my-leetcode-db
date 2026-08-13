@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/rj-karan/my-leetcode-db/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/rj-karan/my-leetcode-db/tree/master/0455-assign-cookies) |
+| [1323-maximum-69-number](https://github.com/rj-karan/my-leetcode-db/tree/master/1323-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1025-divisor-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/rj-karan/my-leetcode-db/tree/master/1323-maximum-69-number) |
 | [1522-stone-game-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1522-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3345-smallest-divisible-digit-product-i) |

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rj-karan/my-leetcode-db/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rj-karan/my-leetcode-db/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/rj-karan/my-leetcode-db/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rj-karan/my-leetcode-db/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0287-find-the-duplicate-number) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/rj-karan/my-leetcode-db/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rj-karan/my-leetcode-db/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/rj-karan/my-leetcode-db/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/rj-karan/my-leetcode-db/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/rj-karan/my-leetcode-db/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1025-divisor-game) |

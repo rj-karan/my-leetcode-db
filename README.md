@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/rj-karan/my-leetcode-db/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/rj-karan/my-leetcode-db/tree/master/1301-number-of-paths-with-max-score) |
+| [1386-cinema-seat-allocation](https://github.com/rj-karan/my-leetcode-db/tree/master/1386-cinema-seat-allocation) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rj-karan/my-leetcode-db/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rj-karan/my-leetcode-db/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rj-karan/my-leetcode-db/tree/master/1480-running-sum-of-1d-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/rj-karan/my-leetcode-db/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/rj-karan/my-leetcode-db/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rj-karan/my-leetcode-db/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/rj-karan/my-leetcode-db/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rj-karan/my-leetcode-db/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rj-karan/my-leetcode-db/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/rj-karan/my-leetcode-db/tree/master/0389-find-the-difference) |
 | [0980-unique-paths-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/0980-unique-paths-iii) |
+| [1386-cinema-seat-allocation](https://github.com/rj-karan/my-leetcode-db/tree/master/1386-cinema-seat-allocation) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/rj-karan/my-leetcode-db/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Greedy
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/rj-karan/my-leetcode-db/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/rj-karan/my-leetcode-db/tree/master/0455-assign-cookies) |
 | [1323-maximum-69-number](https://github.com/rj-karan/my-leetcode-db/tree/master/1323-maximum-69-number) |
+| [1386-cinema-seat-allocation](https://github.com/rj-karan/my-leetcode-db/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

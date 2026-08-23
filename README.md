@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1323-maximum-69-number](https://github.com/rj-karan/my-leetcode-db/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/rj-karan/my-leetcode-db/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rj-karan/my-leetcode-db/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rj-karan/my-leetcode-db/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rj-karan/my-leetcode-db/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/rj-karan/my-leetcode-db/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rj-karan/my-leetcode-db/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rj-karan/my-leetcode-db/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rj-karan/my-leetcode-db/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1323-maximum-69-number](https://github.com/rj-karan/my-leetcode-db/tree/master/1323-maximum-69-number) |
 | [1522-stone-game-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1522-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/rj-karan/my-leetcode-db/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/1140-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1522-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/rj-karan/my-leetcode-db/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1927-sum-game) |
 ## Number Theory
 |  |
 | ------- |

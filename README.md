@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1563-stone-game-v](https://github.com/rj-karan/my-leetcode-db/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/rj-karan/my-leetcode-db/tree/master/1672-richest-customer-wealth) |
 | [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
+| [1872-stone-game-viii](https://github.com/rj-karan/my-leetcode-db/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rj-karan/my-leetcode-db/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rj-karan/my-leetcode-db/tree/master/2073-time-needed-to-buy-tickets) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rj-karan/my-leetcode-db/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1301-number-of-paths-with-max-score](https://github.com/rj-karan/my-leetcode-db/tree/master/1301-number-of-paths-with-max-score) |
 | [1522-stone-game-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1522-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/rj-karan/my-leetcode-db/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rj-karan/my-leetcode-db/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rj-karan/my-leetcode-db/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## String
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/rj-karan/my-leetcode-db/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/rj-karan/my-leetcode-db/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1323-maximum-69-number](https://github.com/rj-karan/my-leetcode-db/tree/master/1323-maximum-69-number) |
 | [1522-stone-game-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1522-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/rj-karan/my-leetcode-db/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rj-karan/my-leetcode-db/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/1140-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1522-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/rj-karan/my-leetcode-db/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rj-karan/my-leetcode-db/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rj-karan/my-leetcode-db/tree/master/1927-sum-game) |
 ## Number Theory
 |  |
@@ -390,11 +395,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1140-stone-game-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/1140-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1522-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/rj-karan/my-leetcode-db/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/1140-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1522-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/rj-karan/my-leetcode-db/tree/master/1872-stone-game-viii) |
 ## Ordered Set
 |  |
 | ------- |

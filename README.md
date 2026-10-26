@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/rj-karan/my-leetcode-db/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rj-karan/my-leetcode-db/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/rj-karan/my-leetcode-db/tree/master/0904-fruit-into-baskets) |
+| [0981-time-based-key-value-store](https://github.com/rj-karan/my-leetcode-db/tree/master/0981-time-based-key-value-store) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rj-karan/my-leetcode-db/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/rj-karan/my-leetcode-db/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rj-karan/my-leetcode-db/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/rj-karan/my-leetcode-db/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rj-karan/my-leetcode-db/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0981-time-based-key-value-store](https://github.com/rj-karan/my-leetcode-db/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1004-max-consecutive-ones-iii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rj-karan/my-leetcode-db/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/rj-karan/my-leetcode-db/tree/master/0567-permutation-in-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/rj-karan/my-leetcode-db/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/rj-karan/my-leetcode-db/tree/master/0917-reverse-only-letters) |
+| [0981-time-based-key-value-store](https://github.com/rj-karan/my-leetcode-db/tree/master/0981-time-based-key-value-store) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rj-karan/my-leetcode-db/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rj-karan/my-leetcode-db/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/rj-karan/my-leetcode-db/tree/master/1768-merge-strings-alternately) |
@@ -416,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rj-karan/my-leetcode-db/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/rj-karan/my-leetcode-db/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->

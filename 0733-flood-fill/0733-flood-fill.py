@@ -1,30 +1,21 @@
 class Solution:
-    def floodFill(self, image, sr, sc, color):
-        o=image[sr][sc]
+    def floodFill(self, image: list[list[int]], sr: int, sc: int, color: int) -> list[list[int]]:
+        x=image[sr][sc]
 
-        if o==color:
+        if x==color:
             return image
-
-        v=[[0]*len(image[0]) for _ in range(len(image))]
-
-        def backtrack(i, j):
-            if i<0 or j<0 or i>=len(image) or j>=len(image[0]):
-                return
-
-            if v[i][j]:
-                return
-
-            if image[i][j]!=o:
-                return
-
-            v[i][j]=1
-            image[i][j]=color
-
-            backtrack(i+1,j)
-            backtrack(i-1,j)
-            backtrack(i,j+1)
-            backtrack(i,j-1)
-            
-        backtrack(sr,sc)
-
+        
+        
+        m,n=len(image),len(image[0])
+        q=deque([(sr,sc)])
+        image[sr][sc]=color
+        
+        while q:
+            r,c=q.popleft()
+            for a,b in [(0,1),(0,-1),(1,0),(-1,0)]:
+                i,j=r+a,c+b
+                if 0<=i<m and 0<=j<n and image[i][j]==x:
+                    image[i][j]=color
+                    q.append((i,j))
+        
         return image

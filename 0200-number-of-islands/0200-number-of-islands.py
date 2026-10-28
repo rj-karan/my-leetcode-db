@@ -1,26 +1,22 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        n=len(grid)
-        m=len(grid[0])
-        v = [[0] * m for _ in range(n)]
-        
-        def backtrack(i,j):
-            if i<0 or j<0 or i>=n or j>=m:
-                return
-            if grid[i][j]=='0':
-                return 
-            if v[i][j]:
-                return
-            v[i][j]=1
-            backtrack(i,j+1) 
-            backtrack(i+1,j)
-            backtrack(i,j-1)
-            backtrack(i-1,j)
-            
-        r=0
-        for i in range(n):
-            for j in range(m):
-                if grid[i][j]=='1' and not v[i][j]:
-                    r+=1
-                    backtrack(i,j)
-        return r
+        rows=len(grid)
+        cols=len(grid[0])
+        i=0
+        def dfs(r,c):
+            q=deque([(r,c)])
+
+            while q:
+                ro,co=q.popleft()
+                d=[(0,1),(1,0),(-1,0),(0,-1)]
+                for dr,dc in d:
+                    nr,nc=dr+ro,dc+co
+                    if 0 <= nr < rows and 0 <= nc < cols and grid[nr][nc] == '1':
+                        grid[nr][nc]='0'
+                        q.append([nr,nc])
+        for r in range(rows):
+            for c in range(cols):
+                if grid[r][c]=='1':
+                    i+=1
+                    dfs(r,c)
+        return i

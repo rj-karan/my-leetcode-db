@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0980-unique-paths-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/rj-karan/my-leetcode-db/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/rj-karan/my-leetcode-db/tree/master/1020-number-of-enclaves) |
 | [1089-duplicate-zeros](https://github.com/rj-karan/my-leetcode-db/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/rj-karan/my-leetcode-db/tree/master/1288-remove-covered-intervals) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/rj-karan/my-leetcode-db/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/rj-karan/my-leetcode-db/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/rj-karan/my-leetcode-db/tree/master/1020-number-of-enclaves) |
 | [1301-number-of-paths-with-max-score](https://github.com/rj-karan/my-leetcode-db/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/rj-karan/my-leetcode-db/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/rj-karan/my-leetcode-db/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/rj-karan/my-leetcode-db/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rj-karan/my-leetcode-db/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/rj-karan/my-leetcode-db/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/rj-karan/my-leetcode-db/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/rj-karan/my-leetcode-db/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rj-karan/my-leetcode-db/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rj-karan/my-leetcode-db/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/rj-karan/my-leetcode-db/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/rj-karan/my-leetcode-db/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rj-karan/my-leetcode-db/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/rj-karan/my-leetcode-db/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/rj-karan/my-leetcode-db/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/rj-karan/my-leetcode-db/tree/master/3310-remove-methods-from-project) |
 ## Combinatorics
 |  |

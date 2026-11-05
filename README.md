@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/rj-karan/my-leetcode-db/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/rj-karan/my-leetcode-db/tree/master/1301-number-of-paths-with-max-score) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rj-karan/my-leetcode-db/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/rj-karan/my-leetcode-db/tree/master/1386-cinema-seat-allocation) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rj-karan/my-leetcode-db/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rj-karan/my-leetcode-db/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0917-reverse-only-letters](https://github.com/rj-karan/my-leetcode-db/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/rj-karan/my-leetcode-db/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rj-karan/my-leetcode-db/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/rj-karan/my-leetcode-db/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rj-karan/my-leetcode-db/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rj-karan/my-leetcode-db/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0981-time-based-key-value-store](https://github.com/rj-karan/my-leetcode-db/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rj-karan/my-leetcode-db/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rj-karan/my-leetcode-db/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rj-karan/my-leetcode-db/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/rj-karan/my-leetcode-db/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/rj-karan/my-leetcode-db/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/rj-karan/my-leetcode-db/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rj-karan/my-leetcode-db/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rj-karan/my-leetcode-db/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/rj-karan/my-leetcode-db/tree/master/1833-maximum-ice-cream-bars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rj-karan/my-leetcode-db/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |

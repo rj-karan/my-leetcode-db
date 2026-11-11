@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rj-karan/my-leetcode-db/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/rj-karan/my-leetcode-db/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/rj-karan/my-leetcode-db/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3859-maximum-product-of-two-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/3859-maximum-product-of-two-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rj-karan/my-leetcode-db/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/3876-construct-uniform-parity-array-ii) |

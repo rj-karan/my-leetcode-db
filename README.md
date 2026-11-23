@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/rj-karan/my-leetcode-db/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/rj-karan/my-leetcode-db/tree/master/1301-number-of-paths-with-max-score) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rj-karan/my-leetcode-db/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rj-karan/my-leetcode-db/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/rj-karan/my-leetcode-db/tree/master/1386-cinema-seat-allocation) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rj-karan/my-leetcode-db/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rj-karan/my-leetcode-db/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/rj-karan/my-leetcode-db/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rj-karan/my-leetcode-db/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/rj-karan/my-leetcode-db/tree/master/1872-stone-game-viii) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/rj-karan/my-leetcode-db/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rj-karan/my-leetcode-db/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/rj-karan/my-leetcode-db/tree/master/1323-maximum-69-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rj-karan/my-leetcode-db/tree/master/1352-product-of-the-last-k-numbers) |
 | [1522-stone-game-iii](https://github.com/rj-karan/my-leetcode-db/tree/master/1522-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rj-karan/my-leetcode-db/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/rj-karan/my-leetcode-db/tree/master/1563-stone-game-v) |
@@ -473,8 +476,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/rj-karan/my-leetcode-db/tree/master/0981-time-based-key-value-store) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rj-karan/my-leetcode-db/tree/master/1352-product-of-the-last-k-numbers) |
 ## Tree
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/rj-karan/my-leetcode-db/tree/master/3331-find-subtree-sizes-after-changes) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rj-karan/my-leetcode-db/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
